@@ -10,8 +10,11 @@ Run qmake -t vcapp to create makefiles for your target platform (You should be a
 Build steps (mac):
 
 1) qmake qmake scripture.pro -r -spec macx-clang CONFIG+=declarative_debug
+
 2) lex -o grammar/lexer.y.cpp grammar/lexer.l
+
 3) bison -d -o parser.tab.cpp -v grammar/parser.y
+
 4) make
 
 
