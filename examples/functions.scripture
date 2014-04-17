@@ -1,0 +1,30 @@
+{{ This is a method that prints the argument times 5 }}
+eternal void Scribe with numeral magic
+Praise the lord!
+    let "Scribe:" and magic added 5 times be written;
+Hallelujah!
+
+{{ This is a method that calls scribe with argument2 if  the argument1 is equal to 2 }}
+{{ It then returns the sum of the arguments to caller }}
+numeral Apostle with numeral number1 and also numeral number2
+Praise the lord!
+    given that number1 is the equal of 2
+    Praise the lord!
+        call upon Scribe, please accept number2 as an offering;
+    Hallelujah!
+    return number1 and number2;
+Hallelujah!
+
+
+{{ Entry point. Loops form 0 to the argument value and calls apostle with each value and 23 as arguments. }}
+numeral create with numeral bound
+Praise the lord!
+    numeral iterator is now 0;
+    as long as iterator is inferior to bound
+    Praise the lord!
+        let "Return value: " and call upon Apostle, please accept iterator and also 23 as an offering be written;
+        iterator is now iterator and 1;
+    Hallelujah!
+
+   let "DUDE !" be written;
+Hallelujah!

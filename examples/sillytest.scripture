@@ -1,0 +1,32 @@
+
+{{ This is a method }}
+eternal void Scribe with numeral magic
+Praise the lord!
+    let magic added 5 times be written;
+Hallelujah!
+
+{{ Entry point. Call it with two numbers. }}
+numeral create with numeral one and also numeral two
+Praise the lord!
+    numeral TheAnswer is now 42;
+    text sentence is now "The answer to The Ultimate Question of Life is: ";
+    let sentence and TheAnswer be written;
+    given that two is inferior to one
+    Praise the lord!
+        let "Humbly swapping the arguments..." be written;
+        numeral three is now one;
+        one is now two;
+        two is now three;
+    Hallelujah!
+    ...but, but... what if... ?
+    Praise the lord!
+        let "Input seems ok..." be written;
+    Hallelujah!
+    let "Let's print a range of numbers..." be written;
+    as long as one is inferior to two
+    Praise the lord!
+        call upon Scribe, please accept one as an offering;
+        one is now one and 1;
+     Hallelujah!
+    let "DUDE !" be written;
+Hallelujah!

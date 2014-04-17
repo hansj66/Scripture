@@ -1,0 +1,9 @@
+numeral create with numeral limit
+Praise the lord!
+    numeral counter;
+    as long as counter is inferior to limit
+    Praise the lord!
+        let counter be written;
+        counter is now counter and 1;
+    Hallelujah!
+Hallelujah!

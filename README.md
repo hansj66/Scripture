@@ -1,4 +1,4 @@
-Scripture
-=========
+Language
+========
 
-A little interpreter experiment
+Language framework demo (flex/bison) + AST, symbol table and interpreter
